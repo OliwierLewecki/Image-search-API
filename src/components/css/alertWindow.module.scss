@@ -1,0 +1,10 @@
+.alertWindow {
+  position: fixed;
+  display: flex;
+  bottom: 10px;
+  right: 10px;
+  padding: 5px 25px;
+  color: #747474;
+  border: 5px solid #10abff;
+  z-index: 9999999;
+}
